@@ -1,0 +1,27 @@
+# Rock, Paper, Scissors Game
+
+## Overview
+This is a simple Rock, Paper, Scissors game implemented in Python. The game allows the user to play against the computer. The winner of each round is determined based on the classic Rock, Paper, Scissors rules.
+
+## How to Play
+1. Run the program.
+2. Follow the instructions to enter the number of rounds you want to play (between 1 and 10).
+3. Choose your move for each round: Rock, Paper, or Scissors.
+4. The computer will randomly select its move.
+5. The winner of each round will be determined based on the game rules.
+6. After all rounds, the final score will be displayed, and the overall winner of the game will be announced.
+
+## Winning Rules
+- Rock vs Paper -> Paper wins
+- Rock vs Scissors -> Rock wins
+- Paper vs Scissors -> Scissors wins
+
+## Additional Features
+- The game keeps track of the total score, including ties.
+- The program provides a tie-breaker if the overall scores are tied at the end of the rounds.
+
+## How to Run
+Ensure you have Python installed. Run the script in a Python environment.
+
+```bash
+python rock_paper_scissors_spring2021project.py
